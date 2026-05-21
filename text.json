@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "vixzz",
+      "role": "OWNER",
+      "status": "ACTIVE",
+      "avatar": "https://i.imgur.com/2DhmtJ4.png"
+    },
+
+    {
+      "username": "jasher",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "avatar": "https://i.imgur.com/2DhmtJ4.png"
+    }
+  ]
+}
