@@ -1,17 +1,12 @@
 {
   "users": [
     {
-      "username": "vixzz",
-      "role": "OWNER",
-      "status": "ACTIVE",
-      "avatar": "https://i.imgur.com/2DhmtJ4.png"
+      "username": "admin",
+      "password": "admin123"
     },
-
     {
-      "username": "jasher",
-      "role": "ADMIN",
-      "status": "ACTIVE",
-      "avatar": "https://i.imgur.com/2DhmtJ4.png"
+      "username": "demo",
+      "password": "123"
     }
   ]
 }
